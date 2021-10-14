@@ -1,0 +1,23 @@
+.getcentered, #importanatcharacters{
+     text-align:center;
+     }
+
+h1{
+    background-color:FireBrick;
+     }
+
+#imagetotheright{
+    margin-left: 15%;
+     }
+
+#leftimage{
+    margin-left: 7%;
+            }
+p{
+    font-size: 10em;
+ }
+
+#background{
+    background-color:black;
+    color:white;
+           }

@@ -1,0 +1,23 @@
+.getcentered, #internallink{
+     text-align:center;
+     }
+
+h1{
+    background-color:BlueViolet;
+     }
+
+#imagetotheright{
+    margin-left: 15%;
+     }
+
+#centerimage{
+    margin-left: 13%;
+            }
+p{
+    font-size: 10em;
+ }
+
+#background{
+    background-color:black;
+    color:white;
+           }
